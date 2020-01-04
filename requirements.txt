@@ -1,0 +1,7 @@
+numpy
+pandas
+SetSimilaritySearch==0.1.7
+nltk
+praw==6.4.0
+psaw==0.0.7
+tqdm
