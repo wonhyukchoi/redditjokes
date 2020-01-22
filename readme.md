@@ -1,6 +1,6 @@
-# Reddit /r/jokes reposts by machine learning
+# Finding reposts on [/r/jokes](http://www.reddit.com/r/jokes)! 
 
-The r/jokes subreddit is famous (infamous?) for its amount of reposts. 
+The [/r/jokes](http://www.reddit.com/r/jokes) subreddit is famous (infamous?) for its amount of reposts. 
 This project aims to uncover the amount of reposts, and find out which jokes are reposted more frequently.
 
 
